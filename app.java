@@ -3,3 +3,5 @@
 # please make use of variables and dynamic variables
 # Author: Ndidiamaka Ejim 
 # Im blessed beyond measures
+# i will be a living testimony
+# bugs removed 
