@@ -5,3 +5,5 @@
 # Im blessed beyond measures
 # i will be a living testimony
 # bugs removed 
+print ("car services automated")
+print ("hello $user your car needs servicing")
